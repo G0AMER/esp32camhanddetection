@@ -1,5 +1,7 @@
 # ESP32CAM-RTSP
 
+Hand detection using esp32 cam and test_finger.py in the repository [finger_counting](https://github.com/G0AMER/finger_counting)
+
 [![Platform IO CI](https://github.com/rzeldent/esp32cam-rtsp/actions/workflows/main.yml/badge.svg)](https://github.com/rzeldent/esp32cam-rtsp/actions/workflows/main.yml)
 
 Simple [RTSP](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol), [HTTP JPEG Streamer](https://en.wikipedia.org/wiki/Motion_JPEG) and image server with configuration through the web interface.
